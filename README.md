@@ -1,4 +1,7 @@
-### Hi there 👋
+### Web Developer :computer: | Rig Building Hobbyist :hammer: | Tech Enthusiast :robot:
+
+### You can 💬 me thru my [LinkedIn](https://www.linkedin.com/in/jobin-cantoria/)
+
 
 <!--
 **j0131n/j0131n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
