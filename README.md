@@ -1,6 +1,6 @@
 ### Web Developer :computer: | Rig Building Hobbyist :hammer: | Tech Enthusiast :robot:
 
-### You can 💬 me thru my [LinkedIn](https://www.linkedin.com/in/jobin-cantoria/)
+<!-- ### You can 💬 me thru my [LinkedIn](https://www.linkedin.com/in/jobin-cantoria/) -->
 
 
 <!--
