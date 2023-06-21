@@ -3,6 +3,7 @@
 * :computer: Web Developer
 * :hammer: Rig Building Hobbyist
 * :robot: Tech Enthusiast
+* [![LeetCode](https://img.shields.io/badge/LeetCode%20Newbie-black?style=for-the-badge&logo=leetCode&logoColor=white)](https://leetcode.com/j0131n)
 
 ## Technologies that I am familiar with/use in a day-to-day basis
 
