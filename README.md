@@ -52,6 +52,7 @@
 ![Laravel](https://img.shields.io/badge/prisma-%232d3748?style=for-the-badge&logo=prisma&logoColor=%23ffffff)
 
 <div align="center">
+
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=j0131n&show_icons=true&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api?username=j0131n&theme=tokyonight&show_icons=true&hide=prs,contribs" />
@@ -61,4 +62,5 @@
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=j0131n&layout=donut&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0131n&layout=donut&theme=tokyonight" />
   </picture>
+
 </div>
