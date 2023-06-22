@@ -3,7 +3,16 @@
 * :computer: Web Developer
 * :hammer: Rig Building Hobbyist
 * :robot: Tech Enthusiast
-* [![LeetCode](https://img.shields.io/badge/LeetCode%20Newbie-black?style=for-the-badge&logo=leetCode&logoColor=white)](https://leetcode.com/j0131n)
+
+<div align="center">
+  <a href="https://leetcode.com/j0131n">
+    <img src="https://img.shields.io/badge/LeetCode%20Newbie-blueviolet?style=for-the-badge&logo=leetCode&logoColor=white" alt="Leet Code" />
+  </a>
+  <a href="https://github.com/j0131n">
+    <img src="https://komarev.com/ghpvc/?username=j0131n&color=blueviolet&style=for-the-badge" alt="Github Profile Views" />
+  </a>
+  
+</div>
 
 ## Technologies that I am familiar with/use in a day-to-day basis
 
@@ -42,6 +51,14 @@
 ![Eloquent](https://img.shields.io/badge/laravel_Eloquent-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Laravel](https://img.shields.io/badge/prisma-%232d3748?style=for-the-badge&logo=prisma&logoColor=%23ffffff)
 
-![j0131n's github stats](https://github-readme-stats.vercel.app/api?username=j0131n&theme=tokyonight&show_icons=true&hide=prs,contribs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0131n&layout=compact&theme=tokyonight)
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=j0131n&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=j0131n&theme=tokyonight&show_icons=true&hide=prs,contribs" />
+  </picture>
+  
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=j0131n&layout=donut&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0131n&layout=donut&theme=tokyonight" />
+  </picture>
+</div>
