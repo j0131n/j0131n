@@ -51,6 +51,10 @@
 ![Eloquent](https://img.shields.io/badge/laravel_Eloquent-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Laravel](https://img.shields.io/badge/prisma-%232d3748?style=for-the-badge&logo=prisma&logoColor=%23ffffff)
 
+### Other Web Tech(s)
+
+![SocketIO](https://img.shields.io/badge/SocketIO-%23323330.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+
 <div align="center">
 
   ![j0131n's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0131n&theme=tokyonight&show_icons=true)
