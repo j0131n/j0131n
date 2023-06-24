@@ -14,7 +14,7 @@
   
 </div>
 
-## Technologies that I am familiar with/use in a day-to-day basis
+## Technologies that I use professionally/in a day-to-day basis
 
 ### Backend
 
