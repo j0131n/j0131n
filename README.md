@@ -1,7 +1,7 @@
 ## Ciao! 👋 I am j0131n a developer from the 🇵🇭
 
 * :computer: Web Developer
-* :hammer: Rig Building Hobbyist
+* :hammer: Rig Builder/PC Modden
 * :robot: Tech Enthusiast
 
 <div align="center">
