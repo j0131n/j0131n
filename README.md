@@ -1,4 +1,4 @@
-## Ciao! 👋 I am j0131n a developer from the 🇵🇭
+## Ciao! 👋 I am j0131n a full stack developer from the 🇵🇭
 
 * :computer: Web Developer
 * :hammer: Rig Builder/PC Modder
