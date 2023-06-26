@@ -5,13 +5,15 @@
 * :robot: Tech Enthusiast
 
 <div align="center">
+  <a href="https://j0131n.github.io/">
+    <img src="https://img.shields.io/badge/Github%20Page-1c2128.svg?style=for-the-badge&logo=github&logoColor=cdd9e5" alt="Github Page" />
+  </a>
   <a href="https://leetcode.com/j0131n">
-    <img src="https://img.shields.io/badge/LeetCode%20Newbie-blueviolet?style=for-the-badge&logo=leetCode&logoColor=white" alt="Leet Code" />
+    <img src="https://img.shields.io/badge/LeetCode%20Newbie-black?style=for-the-badge&logo=leetCode&logoColor=orange" alt="Leet Code" />
   </a>
   <a href="https://github.com/j0131n">
     <img src="https://komarev.com/ghpvc/?username=j0131n&color=blueviolet&style=for-the-badge" alt="Github Profile Views" />
   </a>
-  
 </div>
 
 ## Technologies that I use professionally/in a day-to-day basis
