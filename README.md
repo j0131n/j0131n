@@ -53,9 +53,10 @@
 ![Eloquent](https://img.shields.io/badge/laravel_Eloquent-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Laravel](https://img.shields.io/badge/prisma-%232d3748?style=for-the-badge&logo=prisma&logoColor=%23ffffff)
 
-### Other Web Tech(s)
+### Other Tech(s)
 
 ![SocketIO](https://img.shields.io/badge/SocketIO-%23323330.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![Apigee API Management](https://img.shields.io/badge/Apigee-orange?style=for-the-badge&logo=apigee&logoColor=white)
 
 <div align="center">
 
